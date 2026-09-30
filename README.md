@@ -2,6 +2,7 @@
 ### I'm Luoshuang
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=GitHub&logoColor=white)](https://github.com/shuangluo1206)
+[![Blog](https://img.shields.io/badge/Blog-blue?style=flat&logo=Hexo&logoColor=white)](https://shuangluo1206.github.io/)
 
 > **方向：大模型评测（LLM Evaluation）× Agent Engineering**
 > 相信「想评好一个 Agent，最好的方式是再造一个 Agent」
